@@ -1,8 +1,8 @@
 ---
 title       : My Life in Weeks
 description : This is a map of my life, where each week I’ve been alive is a little box.
-start_date  : 1975-09-19
-end_year    : 2075
+start_date  : 1992-09-07
+end_year    : 2092
 ---
 
 👋 Hi, I'm [Gina](https://ginatrapani.org). This is a map of my life, where each week I've been alive is a little box. Tap a box to see what I was doing where that week.
